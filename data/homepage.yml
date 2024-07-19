@@ -6,9 +6,9 @@ showcase:
   enable: true
   title: "Hello, I’m Amir Pourmand."
   subtitle: "ML Engineer | Blogger | Gen AI"
-  description: "Based in Copenhagen 🇩🇰, I work at <a target='_blank' href='https://www.sumup.com/'>SumUp</a>, a fintech company focused in small businesses, whose vision is <em>to create a world where anyone can build a thriving business</em>. <br/>My background is diverse, as a <strong>specialized generalist</strong>. In technology I have a wide range of experiences: from backend to mobile development or infrastructure, as well as individual contributor or leading teams. I apply the 3P's (People, Product, Process) to my work, and I am passionate about contributing to healthy teams that work in iterative improvements."
+  description: "Based in Canada, I work at <a target='_blank' href='https://www.onecliq.io/'>Onecliq</a>, a startup company focused on helping content creators make better content."
   image:
-    alt: "Profile picture of Adrián Moreno Peña (@zetxek), smiling over a petroleum color background"
+    alt: "Profile picture of Amir Pourmand"
     x: "images/adrian.jpg"
     _2x: "images/adrian@2x.jpg"
   imageMobile:
@@ -22,19 +22,11 @@ showcase:
 
   socialLinks:
     - icon: "linkedin"
-      URL: "https://www.linkedin.com/in/adrianmoreno/"
+      URL: "https://www.linkedin.com/in/amir-pourmand/"
 
     - icon: "github"
-      URL: "https://github.com/zetxek"
+      URL: "https://github.com/pourmand1376"
 
-    - icon: "twitter"
-      URL: "https://twitter.com/zetxek"
-
-    - icon: "instagram"
-      URL: "https://www.instagram.com/zetxek"
-
-    - icon: "facebook"
-      URL: "https://www.facebook.com/zetxek"
 
 # about
 about:
@@ -63,11 +55,11 @@ education:
   enable: true
   title: "Education"
   items:
-    - university: "University of Santiago de Compostela"
+    - university: "Sharif University of Technology"
       year: "2008-2010"
       degree: "Master in Projects Management"
 
-    - university: "University of Santiago de Compostela"
+    - university: "Yazd University"
       year: "2004-2007"
       degree: "Technical Engineering in Computer Systems"
 
