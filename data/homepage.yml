@@ -9,11 +9,11 @@ showcase:
   description: "Based in Canada, I work at <a target='_blank' href='https://www.onecliq.io/'>Onecliq</a>, a startup company focused on helping content creators make better content."
   image:
     alt: "Profile picture of Amir Pourmand"
-    x: "images/adrian.jpg"
-    _2x: "images/adrian@2x.jpg"
+    x: "images/amir.jpg"
+    _2x: "images/amir.jpg"
   imageMobile:
     alt: "Profile picture of Adrián Moreno Peña (@zetxek), smiling over a petroleum color background"
-    x: "images/adrian.jpg"
+    x: "images/amir.jpg"
 
   button:
     icon: "icon-mail-fill"
@@ -33,19 +33,19 @@ about:
   enable: true
   title: "Who am I?"
   content: '<p class="lead">
-    I am an engineer by formation, curious and energetic - that applies technology to solve real-world problems. Personally, I’m a very easy going, sociable, fast-learner, curious and natural leader. I do what I love, and I love what I do. I lead by example and work side by side with my teams.
+    I am Amir Pourmand
     </p>
     <p class="lead">
-    I am a deliberate <em>jack of all trades, master of none</em>. My profile is a hybrid of technical and managerial experience, but always related to technological projects. I bring business and product vision to tech teams, partly thanks to having started an developed a company. I am a fast learner, curious to see how technology can improve the users experience in multiple areas. I have a strong motivation and sense of responsibility with myself, my team and clients (or peers), and people like my positive and easy going, can-do attitude.
+    Pargraph 2
     </p>
     <p class="lead">    
-    On the technical side, I’m a <em>specialized generalist</em>, always working between different areas and aiming to develop a holistic vision on what is involved into creating a successful tech product: mobile and web development, devops/SRE,... This has involved a variety of languages and frameworks in the web-side, both in the backend and in the client side.
+    Paragraph 3
     </p>'
 
   button:
     icon: "icon-smile-fill"
     btnText: "About Me"
-    URL: "https://www.linkedin.com/in/adrianmoreno/"
+    URL: "https://www.linkedin.com/in/amir-pourmand/"
   image:
     x: "images/working-left.jpg"
     _2x: "images/working-left@2x.jpg"
@@ -57,152 +57,152 @@ education:
   items:
     - university: "Sharif University of Technology"
       year: "2008-2010"
-      degree: "Master in Projects Management"
+      degree: "Master in Artificial Intelligence"
 
     - university: "Yazd University"
       year: "2004-2007"
-      degree: "Technical Engineering in Computer Systems"
+      degree: "Computer Engineering"
 
 # experience
-experience:
-  enable: true
-  title: "Experience"
-  description: "Over 17 years of experience working in all kind of project sizes and teams. I have architected & developed digital products to help businesses and improve people's lives, solving complex problems with simple solutions."
-  button:
-    icon: "icon-linkedin-fill"
-    btnText: "Linkedin"
-    URL: "https://www.linkedin.com/in/adrianmoreno/"
-  button2:
-    icon: "icon-profile-fill"
-    btnText: "Download résumé"
-    URL: "/files/cv_adrian_moreno_english.pdf"
-  button3: 
-    icon: "icon-arrow-right"
-    btnText: "All experience"
-    URL: "/experience"
-# Client & Work
-client_and_work:
-  title: "Clients & Works"
-  enable: false
+# experience:
+#   enable: true
+#   title: "Experience"
+#   description: "Over 17 years of experience working in all kind of project sizes and teams. I have architected & developed digital products to help businesses and improve people's lives, solving complex problems with simple solutions."
+#   button:
+#     icon: "icon-linkedin-fill"
+#     btnText: "Linkedin"
+#     URL: "https://www.linkedin.com/in/adrianmoreno/"
+#   button2:
+#     icon: "icon-profile-fill"
+#     btnText: "Download résumé"
+#     URL: "/files/cv_adrian_moreno_english.pdf"
+#   button3: 
+#     icon: "icon-arrow-right"
+#     btnText: "All experience"
+#     URL: "/experience"
+# # Client & Work
+# client_and_work:
+#   title: "Clients & Works"
+#   enable: false
 
-  clients:
-    - logo:
-        x: "images/clients/asgardia.png"
-        _2x: "images/clients/asgardia@2x.png"
-      alt: "Asgardia"
+#   clients:
+#     - logo:
+#         x: "images/clients/asgardia.png"
+#         _2x: "images/clients/asgardia@2x.png"
+#       alt: "Asgardia"
 
-    - logo:
-        x: "images/clients/earth-2.png"
-        _2x: "images/clients/earth-2@2x.png"
-      alt: "Earth 2.0"
+#     - logo:
+#         x: "images/clients/earth-2.png"
+#         _2x: "images/clients/earth-2@2x.png"
+#       alt: "Earth 2.0"
 
-    - logo:
-        x: "images/clients/goldline.png"
-        _2x: "images/clients/goldline@2x.png"
-      alt: "Goldline"
+#     - logo:
+#         x: "images/clients/goldline.png"
+#         _2x: "images/clients/goldline@2x.png"
+#       alt: "Goldline"
 
-    - logo:
-        x: "images/clients/kanba.png"
-        _2x: "images/clients/kanba@2x.png"
-      alt: "Kanba"
+#     - logo:
+#         x: "images/clients/kanba.png"
+#         _2x: "images/clients/kanba@2x.png"
+#       alt: "Kanba"
 
-    - logo:
-        x: "images/clients/zoo-tv.png"
-        _2x: "images/clients/zoo-tv@2x.png"
-      alt: "Zoo"
+#     - logo:
+#         x: "images/clients/zoo-tv.png"
+#         _2x: "images/clients/zoo-tv@2x.png"
+#       alt: "Zoo"
 
-    - logo:
-        x: "images/clients/ztos.png"
-        _2x: "images/clients/ztos@2x.png"
-      alt: "Ztos"
+#     - logo:
+#         x: "images/clients/ztos.png"
+#         _2x: "images/clients/ztos@2x.png"
+#       alt: "Ztos"
 
-  works:
-    - title: "Radity Finance - UI Kit"
-      description: "We have been receiving a lot of requests for a Finance Kit recently due to the popularity of Fintech."
-      button:
-        icon: "icon-arrow-right"
-        btnText: "Case Study"
-        URL: "#"
-      image:
-        x: "images/works/radity-finance.jpg"
-        _2x: "images/works/radity-finance@2x.jpg"
-      is_even: true
+#   works:
+#     - title: "Radity Finance - UI Kit"
+#       description: "We have been receiving a lot of requests for a Finance Kit recently due to the popularity of Fintech."
+#       button:
+#         icon: "icon-arrow-right"
+#         btnText: "Case Study"
+#         URL: "#"
+#       image:
+#         x: "images/works/radity-finance.jpg"
+#         _2x: "images/works/radity-finance@2x.jpg"
+#       is_even: true
 
-    - title: "Swiss Fintech Website"
-      description: "The Swiss Finance + Technology Association is the leading FinTech hub in Switzerland."
-      button:
-        icon: "icon-arrow-right"
-        btnText: "Case Study"
-        URL: "#"
-      image:
-        x: "images/works/swissfintech.jpg"
-        _2x: "images/works/swissfintech@2x.jpg"
-      is_even: false
+#     - title: "Swiss Fintech Website"
+#       description: "The Swiss Finance + Technology Association is the leading FinTech hub in Switzerland."
+#       button:
+#         icon: "icon-arrow-right"
+#         btnText: "Case Study"
+#         URL: "#"
+#       image:
+#         x: "images/works/swissfintech.jpg"
+#         _2x: "images/works/swissfintech@2x.jpg"
+#       is_even: false
 
-    - title: "Robo Advisor"
-      description: "Robo Advisor is a Swiss Wealth Manager and wants to create the best digital experience for its UNHW clients across the world. We started with a whiteboard."
-      button:
-        icon: "icon-arrow-right"
-        btnText: "Case Study"
-        URL: "#"
-      image:
-        x: "images/works/robo-advisor.jpg"
-        _2x: "images/works/robo-advisor@2x.jpg"
-      is_even: true
+#     - title: "Robo Advisor"
+#       description: "Robo Advisor is a Swiss Wealth Manager and wants to create the best digital experience for its UNHW clients across the world. We started with a whiteboard."
+#       button:
+#         icon: "icon-arrow-right"
+#         btnText: "Case Study"
+#         URL: "#"
+#       image:
+#         x: "images/works/robo-advisor.jpg"
+#         _2x: "images/works/robo-advisor@2x.jpg"
+#       is_even: true
 
-# testimonial
-testimonial:
-  enable: false
-  title: "Testimonials"
-  items:
-    - name: "Daniel Jordan"
-      position: "Phonet, CEO"
-      content: "Cold calling can be a great way to generate quality leads. You get to speak to the gatekeepers and stakeholders, and you get a great insight into their requirements and influences. But cold calling is an art-form. It can be daunting, it’s always a lot of work, and you always need to make a good impression."
-      image:
-        x: "images/testimonials/daniel-jordan.jpg"
-        _2x: "images/testimonials/daniel-jordan@2x.jpg"
+# # testimonial
+# testimonial:
+#   enable: false
+#   title: "Testimonials"
+#   items:
+#     - name: "Daniel Jordan"
+#       position: "Phonet, CEO"
+#       content: "Cold calling can be a great way to generate quality leads. You get to speak to the gatekeepers and stakeholders, and you get a great insight into their requirements and influences. But cold calling is an art-form. It can be daunting, it’s always a lot of work, and you always need to make a good impression."
+#       image:
+#         x: "images/testimonials/daniel-jordan.jpg"
+#         _2x: "images/testimonials/daniel-jordan@2x.jpg"
 
-    - name: "Jonathan Peters"
-      position: "Textic, CEO"
-      content: "Whether you or your loved one is encountering the natural decrease in mobility that occurs with the passing of time, or deals with an illness-related lack of physical agility, a stair lift can be the ideal way to put you in charge of your home again. Regardless of the shape or make of your living accommodation."
-      image:
-        x: "images/testimonials/jonathan-peters.jpg"
-        _2x: "images/testimonials/jonathan-peters@2x.jpg"
+#     - name: "Jonathan Peters"
+#       position: "Textic, CEO"
+#       content: "Whether you or your loved one is encountering the natural decrease in mobility that occurs with the passing of time, or deals with an illness-related lack of physical agility, a stair lift can be the ideal way to put you in charge of your home again. Regardless of the shape or make of your living accommodation."
+#       image:
+#         x: "images/testimonials/jonathan-peters.jpg"
+#         _2x: "images/testimonials/jonathan-peters@2x.jpg"
 
-    - name: "Antonio Willis"
-      position: "Cyberse, CEO"
-      content: "In this digital generation where information can be easily obtained within seconds, business cards still have retained their importance in the achievement of increased business exposure and business sales. If your business already has a bunch of printed cards distributed to a number of potential customers and yet."
-      image:
-        x: "images/testimonials/antonio-willis.jpg"
-        _2x: "images/testimonials/antonio-willis@2x.jpg"
+#     - name: "Antonio Willis"
+#       position: "Cyberse, CEO"
+#       content: "In this digital generation where information can be easily obtained within seconds, business cards still have retained their importance in the achievement of increased business exposure and business sales. If your business already has a bunch of printed cards distributed to a number of potential customers and yet."
+#       image:
+#         x: "images/testimonials/antonio-willis.jpg"
+#         _2x: "images/testimonials/antonio-willis@2x.jpg"
 
-# contact
-contact:
-  enable: true
-  title: "Contact"
-  form:
-    action: "https://formspree.io/info@adrianmoreno.info"
-    method: "POST"
-    full_name: "Full Name"
-    email: "Email Address"
-    message: "Type Your Message Here"
-  phone:
-    title: "Phone Number"
-    number: "+45 31 57 98 27"
-  email:
-    title: "Email"
-    email: '<a href="mailto:info@adrianmoreno.info">info@adrianmoreno.info</a>'
-  address:
-    title: "Location"
-    address: "Copenhagen (DK)"
-  button:
-    icon: "icon-mail-fill"
-    btnText: "Send Message"
+# # contact
+# contact:
+#   enable: true
+#   title: "Contact"
+#   form:
+#     action: "https://formspree.io/info@adrianmoreno.info"
+#     method: "POST"
+#     full_name: "Full Name"
+#     email: "Email Address"
+#     message: "Type Your Message Here"
+#   phone:
+#     title: "Phone Number"
+#     number: "+45 31 57 98 27"
+#   email:
+#     title: "Email"
+#     email: '<a href="mailto:info@adrianmoreno.info">info@adrianmoreno.info</a>'
+#   address:
+#     title: "Location"
+#     address: "Copenhagen (DK)"
+#   button:
+#     icon: "icon-mail-fill"
+#     btnText: "Send Message"
 
-# newsletter
-newsletter:
-  enable: false
-  title: "Newsletter subscription"
-  success_message: "Successfully subscribed"
-  error_message: "Error while subscribing."
-  note: "We'll never share your email with anyone else."
+# # newsletter
+# newsletter:
+#   enable: false
+#   title: "Newsletter subscription"
+#   success_message: "Successfully subscribed"
+#   error_message: "Error while subscribing."
+#   note: "We'll never share your email with anyone else."

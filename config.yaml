@@ -16,12 +16,12 @@ params:
       - URL: js/sticky-header.js
   sections:
     - showcase
-    - about
+    #- about
     - education
-    - experience
-    - contact
-  googleTagManagerID: GTM-NVN2BJG
-  homepageExperienceCount: 6
+    #- experience
+    #- contact
+  #googleTagManagerID: GTM-NVN2BJG
+  homepageExperienceCount: 10
   logo:
     text1: Amir
     text2: Pourmand
@@ -33,25 +33,25 @@ menu:
     - name: About
       URL: index.html#about
       weight: 2
-    - name: Experience
-      URL: index.html#experience
-      weight: 3
-    - name: Contact
-      URL: '#contact'
-      weight: 4
+    # - name: Experience
+    #   URL: index.html#experience
+    #   weight: 3
+    # - name: Contact
+    #   URL: '#contact'
+    #   weight: 4
   footer:
     - name: "\U0001F481‍♂️ About"
       URL: index.html#about
       weight: 2
-    - name: "\U0001F4DA Books"
-      URL: /books
-      weight: 3
-    - name: "\U0001F3A4 Public Speaking"
-      URL: /public-speaking
-      weight: 4
-    - name: "\U0001F4E8 Contact"
-      URL: index.html#contact
-      weight: 5
-taxonomies:
-  book_author: book_authors
-  book_category: book_categories
+    #- name: "\U0001F4DA Books"
+    #  URL: /books
+    #  weight: 3
+    # - name: "\U0001F3A4 Public Speaking"
+    #   URL: /public-speaking
+    #   weight: 4
+    # - name: "\U0001F4E8 Contact"
+    #   URL: index.html#contact
+    #   weight: 5
+# taxonomies:
+#   book_author: book_authors
+#   book_category: book_categories
